@@ -10,8 +10,8 @@
   "__comment4__": "OR SESSION_TOKEN (FROM COOKIES ON chat.openai.com AS __Secure-next-auth.session-token)",
   "__comment5__": "OR ACCESS_TOKEN (https://chat.openai.com/api/auth/session)",
   "chatgpt_auth": {
-    "email": "",
-    "password": "",
+    "email": "alanirenewalker@gmail.com",
+    "password": "shinthant2482005",
     "session_token": "",
     "access_token": ""
   },

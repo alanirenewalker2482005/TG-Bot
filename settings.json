@@ -38,7 +38,7 @@
   "__comment12__": "SPECIFY FORMAT OF GENERATED IMAGES (256x256 or 512x512 or 1024x1024)",
   "__comment13__": "SPECIFY IS PROXY NEEDED FOR DALLE (SAME PROXY AS FOR CHATGPT)",
   "dalle": {
-    "open_ai_api_key": "",
+    "open_ai_api_key": "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",
     "image_size": "512x512",
     "use_proxy": true
   },
@@ -54,7 +54,7 @@
   "__comment16__": "PROVIDE YOUR BOT API KEY FROM https://t.me/BotFather",
   "__comment17__": "SPECIFY THE SIZE OF THE REQUEST QUEUE AND WHETHER TO SHOW A MESSAGE ABOUT ADDING TO THE QUEUE",
   "telegram": {
-    "api_key": "",
+    "api_key": "6162553413:AAFy0hejIbm73RH6Rzt7OgRNJ4sFofURyxc",
     "queue_max": 5,
     "show_queue_message": true
   }

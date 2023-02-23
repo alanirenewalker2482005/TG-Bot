@@ -25,7 +25,7 @@
     "enabled": false,
     "auto": true,
 	"https_only": true,
-    "manual_proxy": "http://IP:PORT",
+    "manual_proxy": "http://69.243.253.67",
     "check_interval_seconds": 300,
     "check_message": "1+1",
     "check_message_timeout": 240,

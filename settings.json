@@ -46,7 +46,7 @@
   "__comment14__": "SPECIFY YOUR INITIAL CONVERSATION_ID and PARENT_ID TO CONTINUE THE DIALOGUE",
   "__comment15__": "WHEN YOU START FOR THE FIRST TIME, LEAVE THEM BLANK, ASK A QUESTION AND LOOK IN THE CONSOLE",
   "chatgpt_dialog": {
-    "conversation_id": "",
+    "conversation_id": "975024443",
     "parent_id": "",
     "too_many_requests_wait_time_seconds": 600
   },
